@@ -63,8 +63,6 @@ The project also includes a **bar plot** to visualize Silhouette Scores for KMea
 - seaborn
 - scikit-learn
 
-*(All can be installed using `pip install -r requirements.txt`)*
-
 ---
 
 ## 📌 Key Insights
