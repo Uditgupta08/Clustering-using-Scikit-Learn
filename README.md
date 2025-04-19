@@ -54,36 +54,6 @@ The project also includes a **bar plot** to visualize Silhouette Scores for KMea
 
 ---
 
-## 📁 Project Structure
-
-```
-├── clustering_comparative_study.py  # Main script
-├── clustering_comparison_results.csv  # (Optional) Saved results
-└── README.md
-```
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/clustering-comparative-study.git
-   cd clustering-comparative-study
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the script**
-   ```bash
-   python clustering_comparative_study.py
-   ```
-
----
-
 ## 📝 Requirements
 
 - Python 3.x
@@ -104,8 +74,3 @@ The project also includes a **bar plot** to visualize Silhouette Scores for KMea
 - Hierarchical clustering is consistent across different preprocessing types.
 
 ---
-
-
-## 📚 License
-
-This project is open-source and available under the [MIT License](LICENSE).
